@@ -6,6 +6,9 @@
 [![Solved.ac_profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kraftenty)](https://solved.ac/kraftenty)
 
 ---
+### *Tech Blog*
+[🔗 Blog Link (kraftenty.github.io) 👈](https://kraftenty.github.io)
+---
 ### *stacks*
 <p align="center">
   <a href="https://skillicons.dev">
